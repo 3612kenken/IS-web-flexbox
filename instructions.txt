@@ -1,0 +1,37 @@
+Design Activity (Revealed on Scheduled Date)
+
+On the scheduled activity time, you will:
+
+1. Recreate the Web Layout
+	Use the downloaded reference design to build a basic web page using HTML and CSS only.
+	the 'img-contents' folder contains image file for your design
+	Hint: Use semantic tags like <header>, <section>, and <footer>.
+
+2. Add Responsiveness
+	Use media queries to make your design responsive for mobile, tablet, and desktop views.
+	Hint: Adjust Flexbox properties and element widths inside media queries for smooth reflow.
+
+3. Test and Capture
+	Open your design in a browser.
+	Resize the window or use device preview mode to test responsiveness.
+	Take 1 clear screenshot showing responsive behavior.
+	Hint: Show at least two different screen sizes (e.g., desktop and mobile).
+
+4. Submit Your Work
+	Upload the following to Google Classroom:
+	Your HTML and CSS files
+	The screenshot of your responsive design
+
+📌 Notes
+
+1. Avoid using the internet or any online tools during the activity, except those specifically recommended.
+2. Rely only on the provided materials and your own code.
+3. Follow all instructions carefully for full credit.
+
+Quick Hints for the Activity
+
+* Flexbox Basics: Use display: flex;, justify-content:, and align-items: to arrange your layout easily.
+* Responsive Design: Use @media rules for different screen widths (e.g., max-width: 768px) to adjust layout styles.
+* Images: Use flexible widths (width: 100%) and max-width to keep images responsive.
+* Testing: Resize your browser window or use built-in device emulators in Chrome DevTools (F12 > Toggle Device Toolbar).
+* Organize your code: Keep your CSS clean
